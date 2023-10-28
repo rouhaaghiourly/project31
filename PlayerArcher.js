@@ -9,7 +9,7 @@ class PlayerArcher {
       this.height = height;
       //this.collapse = false;
       this.image = loadImage
-      ("./assets/playerArcher.png");
+      ("playerArcher.png");
   
       World.add(world, this.body);
   
